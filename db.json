@@ -1,9 +1,11 @@
 {
-  "results": [
-   "RQ1":"00000000",
-   "xfer_percent":-1,
-   "dev_time":"2019-03-29T17:23:10Z",
-   "batt_level":11217
-]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
-
